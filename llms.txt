@@ -1,0 +1,42 @@
+# Sharkey Media
+
+> Sharkey Media is a digital media and marketing company providing web design, SEO, web hosting, media production, digital strategy, and related digital services.
+
+## Core Pages
+
+- [Sharkey Media](https://sharkeymedia.com/): Main website and overview of Sharkey Media's digital services and capabilities.
+- [About / Our People](https://sharkeymedia.com/our-people/): Information about the people behind Sharkey Media.
+- [Partners](https://sharkeymedia.com/partners/): Information about Sharkey Media's partners and business relationships.
+- [Contact Us](https://sharkeymedia.com/contact-us/): Contact information and inquiry options for Sharkey Media.
+
+## Services
+
+- [Capabilities](https://sharkeymedia.com/capabilities/): Overview of Sharkey Media's digital capabilities and services.
+- [Web Design](https://sharkeymedia.com/web-design/): Information about Sharkey Media's web design services.
+- [Web Hosting & SEO](https://sharkeymedia.com/web-hosting-seo/): Information about web hosting and SEO services.
+- [Media Production](https://sharkeymedia.com/media-production/): Information about Sharkey Media's media production services.
+
+## Portfolio & Case Studies
+
+- [Case Studies](https://sharkeymedia.com/case-studies/): Examples of Sharkey Media projects, client work, and results.
+- [Portfolios](https://sharkeymedia.com/portfolios/): Collection of Sharkey Media's portfolio projects and client work.
+
+## Media
+
+- [Media](https://sharkeymedia.com/media/): Sharkey Media's media, news, interviews, podcasts, and other published content.
+
+## Important Project Pages
+
+- [Matrix Global](https://sharkeymedia.com/portfolios/matrix-global/): Sharkey Media portfolio project for Matrix Global.
+- [Flying Solo](https://sharkeymedia.com/portfolios/flying-solo/): Sharkey Media portfolio project for Flying Solo.
+- [Take Flight](https://sharkeymedia.com/portfolios/take-flight/): Sharkey Media portfolio project for Take Flight.
+- [Inside Property Report](https://sharkeymedia.com/portfolios/inside-property-report/): Sharkey Media portfolio project for Inside Property Report.
+- [World Wine HQ](https://sharkeymedia.com/portfolios/world-wine-hq/): Sharkey Media portfolio project for World Wine HQ.
+
+## Recommended Pages for Context
+
+For an overview of Sharkey Media, start with the [homepage](https://sharkeymedia.com/), [Capabilities](https://sharkeymedia.com/capabilities/), and [Our People](https://sharkeymedia.com/our-people/) pages.
+
+For examples of client work, refer to the [Case Studies](https://sharkeymedia.com/case-studies/) and [Portfolios](https://sharkeymedia.com/portfolios/) pages.
+
+For specific service information, refer to the [Web Design](https://sharkeymedia.com/web-design/), [Web Hosting & SEO](https://sharkeymedia.com/web-hosting-seo/), and [Media Production](https://sharkeymedia.com/media-production/) pages.
